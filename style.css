@@ -81,6 +81,7 @@ a {
 html {
   scroll-behavior: smooth;
 }
+
 body  {
   font-family: 'Lato', sans-serif;
 }
@@ -275,8 +276,6 @@ footer label {
   }
 
   #btn {
- 
-  bottom: 20px;
- 
-}
+    bottom: 20px;
+  }
 }
