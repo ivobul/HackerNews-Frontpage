@@ -1,2 +1,2 @@
-# The Hacker News' frontpage (news.ycombinator.com) recreated with html and css
+# The Hacker News' Frontpage (news.ycombinator.com) Recreated with HTML and CSS
 ![CSS Exercise - Preview](design/preview.png)
