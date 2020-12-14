@@ -119,11 +119,12 @@ nav ul {
   flex-wrap: wrap;
 }
 
-nav ul a {
-  display: inline-block;
+nav ul li:last-child {
+  margin-left: auto;
 }
 
 nav ul a {
+  display: inline-block;
   padding: 0 3px;
 }
 
@@ -260,11 +261,6 @@ footer label {
   nav ul {
     flex: 2;
     margin-left: 10px;
-  }
-  
-  nav ul li:last-child {
-    margin-left: auto;
-    padding-right: 0;
   }
 
   footer {
